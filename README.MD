@@ -62,7 +62,7 @@ Python - 3.12.4
 2. Matching users are returned as a list of user profiles.
 3. Extra Filters can be added through query params for city-based filtering etc
 
-### Task-4: Add Email Validation
+#### Task-4: Add Email Validation
 1. The EmailStr type from Pydantic is used to validate email addresses.
 2. When a user profile is created or updated, Pydantic ensures that the email is in a valid format.
 3. If the email is invalid, FastAPI automatically returns a 422 Unprocessable Entity error.
