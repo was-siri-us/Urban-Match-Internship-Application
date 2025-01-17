@@ -27,7 +27,7 @@ The Marriage Matchmaking App is a simple backend application designed to help us
 
 #### Preface 
 
-To be perfectly candid, I haven't worked much on FastAPI and had to learn it while doing this project from the code and context clues.
+To be perfectly candid, I haven't worked much on FastAPI and had to learn it while doing this project from the code and context clues. And once I got the syntaxing down, it was easy to understand and implement the functionality 
 
 #### Environment
 Python - 3.12.4
